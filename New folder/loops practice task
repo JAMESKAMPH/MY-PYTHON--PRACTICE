@@ -1,0 +1,6 @@
+scores=[45,82,91,38,67]
+for score in scores:
+   if score >=50:
+    print(score,"-> Pass")
+   else:
+     print(score,"-> Fail")

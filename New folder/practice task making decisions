@@ -1,0 +1,7 @@
+my_scores=[50,75,100]
+avarage_score=sum(my_scores)/len(my_scores)
+print("Avarage_score:", avarage_score)
+if avarage_score >=60:
+     print("Status:Passed")
+else:
+     print("status:Needs Improvement")

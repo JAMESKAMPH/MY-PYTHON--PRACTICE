@@ -1,0 +1,5 @@
+my_scores=[50,75,100]
+total_points=sum(my_scores)
+number_of_tests=len(my_scores)
+avarage_score=total_points/number_of_tests
+print("My avarage score is:", avarage_score)

@@ -1,0 +1,9 @@
+def evaluate_score(score):
+    if score >=50:
+        return "Pass"
+    else:
+        return "Fail" 
+test_scores=[45,82,91,38,67]
+for score in test_scores:
+    status=evaluate_score(score)
+    print(score,"->",status)

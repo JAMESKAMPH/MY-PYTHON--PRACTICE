@@ -1,0 +1,8 @@
+name,subject,score
+Alice,Math,88
+Boc,Physics,92.5
+Charlie,,88
+David,Math,corrupt
+Eva,Physics,None
+Frank,Math,94
+Grace,Chemistry,81 

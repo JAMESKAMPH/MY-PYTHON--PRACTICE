@@ -1,0 +1,9 @@
+employee_id,department,salary,rating
+101,Engineering,7500,4.5
+102,Marketing,6000,missing
+103,Engineering,82000,4.8
+104,Sales,55000,3.9
+105,,65000,4.1
+106,Marketing,corrupt,4.0
+107,Sales,58000,4.4
+108,Engineering,90000,5.0

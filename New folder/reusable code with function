@@ -1,0 +1,9 @@
+def check_pass_fail(score) :
+    if score>=50:
+        return "Pass"
+    else:
+        return "Fail"
+result1 = check_pass_fail (82)
+result2 = check_pass_fail (32)
+print("82 is a:", result1)
+print("38 is a:", result2)

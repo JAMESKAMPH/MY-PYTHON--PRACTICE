@@ -1,0 +1,7 @@
+scores=[80,95,70,88]
+first_score=scores[0]
+second_score=scores[1]
+total=sum(scores)
+count=len(scores)
+average=total/count
+print(average)

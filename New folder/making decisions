@@ -1,0 +1,7 @@
+score=75
+if score >=80:
+    print("Grade:Distinction")
+elif score>= 50:
+    print("Grade:Pass")
+else:
+    print("Grade:Fail")
